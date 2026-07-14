@@ -52,8 +52,10 @@ Este tablero compara los votos obtenidos por cada partido político a nivel de p
 Al igual que en el primer tablero, se implementó una **medida** en DAX para soportar los cálculos dinámicos que exige la interactividad entre los visuales.
 
 ## 🔭 Vista - Tableros
+<img width="960" height="662" alt="Tablero 1" src="https://github.com/user-attachments/assets/5f3746c8-feb2-4f59-b53c-3a9ef7d5d701" />
+</div>
+<img width="960" height="662" alt="Tablero 2" src="https://github.com/user-attachments/assets/1dbb4449-ea70-4371-9eca-498a693f978b" />
 
-<!-- Capturas o enlace de los tableros -->
 
 <div align="center">
 <h3 align="center">Contacto 😋</h3>
